@@ -1,2 +1,2 @@
 # Antent.
-
+My name is Foz, also known as Instkilla, Bzooka, or 9raqi in the online world. I am a seasoned Discord.py coder with two years of experience under my belt. Over the years, I have honed my skills in Discord.py and created numerous bots that have helped make server management easier for many. However, I believe that there is always room for improvement and growth, which is why I have decided to start learning Lua soon. I am excited to embark on this new journey of expanding my coding knowledge and exploring a new language.
